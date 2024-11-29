@@ -26,7 +26,7 @@
 ```
 git clone https://github.com/MILKdaruma/robosys2024
 ```
-## ディレクトリへの移動
+# ディレクトリへの移動
 ```
 cd robosys2024
 ```
