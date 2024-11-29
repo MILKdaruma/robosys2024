@@ -2,7 +2,7 @@ nane: test
 on: push
 jobs:
   test:
-    runs-on
+    runs-on:
     strategy:
       matrix:
         python-version: ["3.7", "3.8", "3.9", "3.10"]
