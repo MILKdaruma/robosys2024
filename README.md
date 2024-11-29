@@ -87,8 +87,9 @@ https://beforester.net/media/sabage-airgun-velocity-energy-terms
 https://gunnsougg.dayuh.net/dansoku.html
 
 # ライセンス
-このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます
+・このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます
 
-このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです
+・このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです
 https://github.com/ryuichiueda/slides_marp/tree/master/robosys2024
+
 🄫 2024 teruma yamamoto
