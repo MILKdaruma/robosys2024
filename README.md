@@ -78,6 +78,16 @@ Pythonの算術演算子（四則演算、べき乗、リスト・文字列の�
 
 https://note.nkmk.me/python-arithmetic-operator/
 
+[5分でマスター]初心者はまずREADMEを書け[テンプレート付き]
+
+https://qiita.com/Canard_engineer_c_cpp/items/81ce4e53881138dbf37f
+
+素敵なREADMEの書き方✨
+
+https://qiita.com/koeri3/items/f85a617dcb6efebb2cab
+
+https://github.com/greymd/tmux-xpanes
+
 サバゲーエアガンの初速、弾速、J(ジュール)とは？
 
 https://beforester.net/media/sabage-airgun-velocity-energy-terms
