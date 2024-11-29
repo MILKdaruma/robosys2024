@@ -75,10 +75,15 @@ Ubuntu 22.04 LTS
 
 ## 参考文献
 Pythonの算術演算子（四則演算、べき乗、リスト・文字列の結合など）
+
 https://note.nkmk.me/python-arithmetic-operator/
+
 サバゲーエアガンの初速、弾速、J(ジュール)とは？
+
 https://beforester.net/media/sabage-airgun-velocity-energy-terms
+
 ＢＢ弾初速、重量、Ｊ（ジュ－ル）換算表
+
 https://gunnsougg.dayuh.net/dansoku.html
 
 # ライセンス
