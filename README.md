@@ -73,6 +73,14 @@ Python
 # テスト環境
 Ubuntu 22.04 LTS
 
+# 参考文献
+Pythonの算術演算子（四則演算、べき乗、リスト・文字列の結合など）
+https://note.nkmk.me/python-arithmetic-operator/
+サバゲーエアガンの初速、弾速、J(ジュール)とは？
+https://beforester.net/media/sabage-airgun-velocity-energy-terms
+ＢＢ弾初速、重量、Ｊ（ジュ－ル）換算表
+https://gunnsougg.dayuh.net/dansoku.html
+
 # ライセンス
 このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます
 このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです
