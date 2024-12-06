@@ -4,18 +4,21 @@
 
 import sys
 
-bb_weight, velocity = sys.stdin.read().split("\\")
+try:
+    bb_weight, velocity = sys.stdin.read().split("\\")
+    
+    bb_weight = float(bb_weight) / 1000
+    velocity = float(velocity)
+    
+    energy = 0.5 * bb_weight * velocity ** 2
 
-bb_weight = float(bb_weight) / 1000  
-velocity = float(velocity)  
+    if energy > 0.97:
+        print(f"規制初速です: エネルギー {energy:.3f} J")
+    else:
+        print(f"合法です: エネルギー {energy:.3f} J")
 
-energy = 0.5 * bb_weight * velocity ** 2
-
-if energy > 0.97:
-    print(f"規制初速です: エネルギー {energy:.3f} J")
-else:
-    print(f"合法です: エネルギー {energy:.3f} J")
-
-
-
+except ValueError:
+    print("エラー: 数値を入力してください")
+except Exception as e:
+    print(f"エラー: {e}")
 
